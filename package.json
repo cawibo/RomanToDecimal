@@ -1,0 +1,21 @@
+{
+  "name": "romantodecimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.22.0",
+    "mocha": "^8.3.2",
+    "prettier": "^2.2.1",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
