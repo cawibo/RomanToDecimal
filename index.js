@@ -3,6 +3,7 @@ const _throw = (msg) => {
 }
 
 const mapping = {
+  N: 0,
   I: 1,
   V: 5,
   X: 10,
