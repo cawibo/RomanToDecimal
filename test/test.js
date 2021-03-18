@@ -533,4 +533,6 @@ describe('RomanToDecimal testsuite', () => {
       expect(convert('CM').should.eql(900))
     })
   })
+
+  require('./python_generated')
 })
